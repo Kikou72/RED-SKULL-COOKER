@@ -21,4 +21,4 @@ RED SKULL COOK'ER
 2. Compile it with pyinstaller
 3. Run red_skull.exe
 
-made by noescape0032
+made by enigma04208
